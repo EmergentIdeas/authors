@@ -1,0 +1,15 @@
+
+__::$pretemplate__
+
+
+<h2>Authors</h2>
+<div class="ei-editable-sortable-tiles author-tiles">
+	<a href="__dreck.createUrl__">Add author</a>
+	<ul class="tiles" data-sort-url="__dreck.sortUrl__">
+	__focus::./tile__
+
+	</ul>
+</div>
+
+
+__::$posttemplate__

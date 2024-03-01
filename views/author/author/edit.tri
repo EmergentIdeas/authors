@@ -1,0 +1,10 @@
+
+__::$pretemplate__
+<h1>Edit Author</h1>
+<form method="post" action="__dreck.editUrl__" class="author-fields-form ei-form">
+__::./fields__
+<button type="submit">Save</button>
+</form>
+
+
+__::$posttemplate__

@@ -1,0 +1,5 @@
+
+		<label class="">
+			<input name="groups" type="checkbox" value="__this.id__" />
+			__this.name__
+		</label>

@@ -1,0 +1,22 @@
+		</div>
+	</div>
+	<footer class="container-wrapper app-footer">
+		<div class="container">
+			<a href="https://www.emergentideas.com/">
+				<picture class="eibuilding-picture">
+					<source srcset="https://www.emergentideas.com/vrsc/123/img/eibuilding-2x.webp 2x, https://www.emergentideas.com/vrsc/123/img/eibuilding.webp 1x" type="image/webp">
+					<source srcset="https://www.emergentideas.com/vrsc/123/img/eibuilding-2x.png 2x, https://www.emergentideas.com/vrsc/123/img/eibuilding.png 1x" type="image/png">
+					<img src="https://www.emergentideas.com/vrsc/123/img/eibuilding.png" alt="emergent ideas">
+				</picture>
+			</a>
+			<p>
+				Made with Webhandle by EmergentIdeas
+			</p>
+		</div>
+
+	</footer>
+</div>
+<script type="text/javascript" src="/js/pages.js" defer></script>
+</body>
+
+</html>

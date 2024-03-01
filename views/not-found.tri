@@ -1,0 +1,20 @@
+__::start__
+<div class="page page-inner">
+	<section class="jumbo home-banner-picture-background">
+		__::inner-header__
+		<div class="msg container-wrapper">
+			<div class="inner edit-content-inline container">
+				<h1>Not Found</h1>
+			</div>
+		</div>
+
+	</section>
+	<div class="container-wrapper">
+		<main class="container edit-content-inline">
+			<h1>We Couldn't Find Your Request</h1>
+			<p>Please check the URL and try again.</p>	
+		</main>
+	</div>
+	__::footer__
+</div>
+__::end__

@@ -1,0 +1,28 @@
+
+<div class="ei-css-grid">
+	<label class="xs12 t6 name-label">
+		Name *
+		<input name="name" type="text" required />
+	</label>
+	<label class="xs12 t6 name-label">
+		Title
+		<input name="title" type="text" />
+	</label>
+	<label class="xs12 t6" >
+		Email
+		<input name="email" type="text" />
+	</label>
+	<label class="xs6" >
+		Phone
+		<input name="phone" type="text" />
+	</label>
+	
+	<label class="xs6" class="name-label">
+		Description
+		<textarea name="description" ></textarea>
+	</label>
+	<label class="xs6" >
+		Image
+		<input name="image" type="text" class="picture-input-field" />
+	</label>
+</div>

@@ -1,0 +1,31 @@
+
+<div class="ei-css-grid">
+	<label class="xs12 t6" class="name-label">
+		Name
+		<input name="name" type="text" required />
+	</label>
+	<label class="xs12 t6" >
+		Email
+		<input name="email" type="text" />
+	</label>
+	<label class="xs6" >
+		Phone
+		<input name="phone" type="text" />
+	</label>
+	
+	<label class="xs6" class="name-label">
+		Description
+		<textarea name="description" ></textarea>
+	</label>
+	<label class="xs6" class="name-label">
+		Image
+		<input name="image" type="text" class="picture-input-field" />
+	</label>
+	<label class="xs6">
+		Authors
+		<select name="author">
+			<option value="">-- none --</option>
+			__authors::@dankolz/authors/author-option__
+		</select>
+	</label>
+</div>

@@ -1,0 +1,5 @@
+__::start__
+<div class="page page-landing">
+	__this::json__
+</div>
+__::end__
